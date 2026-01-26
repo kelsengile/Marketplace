@@ -33,6 +33,9 @@ PresyongKapiyu is developed as a collaborative project and is maintained through
 Functions and Code:
 Video: https://drive.google.com/file/d/1rJ5W8RWaIyn5oDg48bQWjSvKbI-rqVU7/view?usp=drive_link
 
+Assets:
+https://drive.google.com/drive/folders/1UX_3SRWx4CtYMacnknoJLNVgDZy7mtyD?usp=sharing
+
 Notes:
 To run the PresyongKapiyu application on your local machine, begin by forking the GitHub repository and running the master branch. Make sure that all required resources are properly set up before execution to avoid runtime errors.
 First, update all database paths used across the forms. Each form contains a database connection that must be redirected to the correct local path of the PresyongKapiyu database on your system. Failing to update these paths may prevent the application from loading data properly.

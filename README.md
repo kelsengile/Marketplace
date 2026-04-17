@@ -1,53 +1,124 @@
+# Presyong-KaPiyu  
+### The LSPU Student’s Guide to Campus Prices
 
+Presyong-KaPiyu is a smart campus application designed to help Laguna State Polytechnic University (LSPU) students compare prices across nearby stores — including canteens, sari-sari stores, print shops, and student-owned businesses.  
 
-Presyong-KaPiyu: The LSPU Student’s Guide to Campus Prices
+It enables students to make informed purchasing decisions, saving both time and money while supporting local campus vendors.
 
-A smart campus app that helps LSPU students quickly compare prices across nearby stores — including canteens, sari-sari stores, print shops, and student-owned businesses — so they can save time and money.
+---
 
+## 🔗 Repository
+GitHub: https://github.com/kelsengile/Presyong_Ka-Piyu
 
-Github Repository : https://github.com/kelsengile/Presyong_Ka-Piyu
+---
 
+## 👥 Contributors
+- Conel, Kelsen Gile S.  
+- Ortega, Xavier Kent O.  
+- Sumague, Jhamel Rose R.  
+- Beltran, Frank Manuel O.  
 
+---
 
-Contributors:
-Conel, Kelsen Gile S.
-Ortega, Xavier Kent O.
-Sumague, Jhamel Rose R.
-Beltran, Frank Manuel O.
+## 👨‍🏫 Adviser
+**Sir Francisco Kaleb Marquez**
 
+---
 
+## 📅 Project Timeline
+**December 2025**
 
+---
 
-Professor: 
-Sir. Francisco Kaleb Marquez
+## 📖 Introduction
 
+Presyong-KaPiyu is a centralized platform that allows LSPU students to digitally browse and compare product and service prices within and around the campus.
 
+Students often face two key challenges:
+- Limited time  
+- Tight budgets  
 
-December 2025
+Instead of visiting multiple stores physically, users can conveniently access pricing information through the app. This promotes:
+- Smarter spending habits  
+- Increased convenience  
+- Greater visibility for local student-run businesses  
 
-Introduction:
-Presyong_Ka-Piyu is a smart campus application designed to help Laguna State Polytechnic University (LSPU) students make informed purchasing decisions within and around the campus. It provides a centralized platform where students can quickly compare prices from nearby canteens, sari-sari stores, print shops, and student-owned businesses. By presenting transparent and up-to-date pricing, the app aims to reduce unnecessary spending and improve daily convenience.
-The project addresses a common problem faced by students, limited time and budget constraints. Instead of physically checking multiple stores, PresyongKapiyu allows users to view available products and services digitally, saving both time and effort. This promotes smarter spending habits while supporting local campus-based sellers by increasing their visibility.
-PresyongKapiyu is developed as a collaborative project and is maintained through a GitHub repository, It utilized Visual Studio by Microsoft and used the format of Windows.NET Forms Version 10.0. The database used by the project was SQlite, simply for local storage of the project's data, and to not use third party applications. With this it  ensures organized version control and continuous improvement. The project contributors include Conel, Kelsen Gile S., Ortega, Xavier Kent O., Sumague, Jhamel Rose R, and Beltran, Frank Manuel O., who collectively worked on the design, development, and functionality of the system over the period of the month December 2025.
+---
 
-Functions and Code:
-Video: https://drive.google.com/file/d/1rJ5W8RWaIyn5oDg48bQWjSvKbI-rqVU7/view?usp=drive_link
+## 🛠️ Tech Stack
 
-Assets:
-https://drive.google.com/drive/folders/1UX_3SRWx4CtYMacnknoJLNVgDZy7mtyD?usp=sharing
+- **IDE:** Visual Studio (Microsoft)  
+- **Framework:** Windows Forms (.NET Framework v10.0)  
+- **Database:** SQLite (local storage, no third-party dependencies)  
+- **Version Control:** GitHub  
 
-Notes:
-To run the PresyongKapiyu application on your local machine, begin by forking the GitHub repository and running the master branch. Make sure that all required resources are properly set up before execution to avoid runtime errors.
-First, update all database paths used across the forms. Each form contains a database connection that must be redirected to the correct local path of the PresyongKapiyu database on your system. Failing to update these paths may prevent the application from loading data properly.
-Second, for the Map Forms, download the required visual assets located in the Pictures → Text folder of the repository. These assets are necessary for rendering the background images of the map buttons. Ensure that the image paths are correctly linked within the project directory.
-Third, perform basic personal debugging after setup. Check for missing references, resource paths, or environment-specific issues. Once debugging is complete, run the program and verify that all forms, buttons, and popups function as intended.
+---
 
+## 🎥 Demo & Resources
 
+- 📹 Demo Video:  
+  https://drive.google.com/file/d/1rJ5W8RWaIyn5oDg48bQWjSvKbI-rqVU7/view?usp=drive_link  
 
-Additional Notes
-Ensure that all required libraries and dependencies are installed before running the project.
-It is recommended to run the project using the same development environment specified in the repository to minimize compatibility issues.
-If errors occur during execution, review the error messages carefully as they often point directly to missing files or incorrect paths.
-Feel free to enhance or modify the program after successful setup to explore additional features or improvements.
+- 📁 Assets Folder:  
+  https://drive.google.com/drive/folders/1UX_3SRWx4CtYMacnknoJLNVgDZy7mtyD?usp=sharing  
 
-Enjoy exploring and using the PresyongKapiyu application!
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone or Fork the Repository
+```bash
+git clone https://github.com/kelsengile/Presyong_Ka-Piyu.git
+```
+
+### 2. Open the Project
+- Open the solution file in **Visual Studio**
+- Ensure compatibility with the required .NET version
+
+### 3. Configure Database Paths
+- Update all database connection paths in each form
+- Point them to the correct **local SQLite database file**
+
+⚠️ Incorrect paths may prevent the app from loading data properly.
+
+### 4. Set Up Assets
+- Download required images from the **Assets folder**
+- Place them in the correct project directories
+- Update file paths if necessary
+
+### 5. Run & Debug
+- Check for:
+  - Missing references  
+  - Incorrect file paths  
+  - Environment-specific issues  
+- Run the application and verify:
+  - Forms load correctly  
+  - Buttons function properly  
+  - Popups display as expected  
+
+---
+
+## 📝 Notes
+
+- Ensure all dependencies are installed before running the project  
+- Use the recommended development environment to avoid compatibility issues  
+- Carefully read error messages — they often indicate missing files or incorrect paths  
+- You are encouraged to modify and improve the project after setup  
+
+---
+
+## 💡 Purpose
+
+Presyong-KaPiyu aims to:
+- Help students save money  
+- Reduce time spent comparing prices  
+- Support local campus businesses  
+- Encourage smarter financial decisions  
+
+---
+
+## 🎉 Final Note
+
+Enjoy exploring and improving **Presyong-KaPiyu**!

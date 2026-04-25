@@ -1,9 +1,7 @@
 # Presyong-KaPiyu  
 ### The LSPU Student’s Guide to Campus Prices
 
-Presyong-KaPiyu is a smart campus application designed to help Laguna State Polytechnic University (LSPU) students compare prices across nearby stores — including canteens, sari-sari stores, print shops, and student-owned businesses.  
-
-It enables students to make informed purchasing decisions, saving both time and money while supporting local campus vendors.
+Presyong-KaPiyu is a smart campus application designed to help Laguna State Polytechnic University (LSPU) students compare prices across nearby stores — including canteens, sari-sari stores, print shops, and student-owned businesses. It enables students to make informed purchasing decisions, saving both time and money while supporting local campus vendors.
 
 ---
 
@@ -26,7 +24,7 @@ GitHub: https://github.com/kelsengile/Presyong_Ka-Piyu
 ---
 
 ## 📅 Project Timeline
-**December 2025**
+**November - December 2025**
 
 ---
 

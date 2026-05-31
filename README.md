@@ -1,6 +1,6 @@
 # 🛍️ Marketplace
 
-A modern food & Shopping platform that connects customers with local businesses
+A modern food & shopping platform that connects customers with local businesses
 
 ## ✨ Features
 
